@@ -1,0 +1,14 @@
+body{text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: linear-gradient(-450deg, #aa48ec, #3b0677, #766886)
+}
+
+form{
+    background-color: white;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 60px;
+    border-radius: 90px;
+    box-shadow: 0 0 10px rgb(58, 55, 55);
+     
+    }
